@@ -39043,17 +39043,7 @@
       "cities": "SCHERERVILLE",
       "donors_mcsally": "1"
     }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-110.96975708007812, 32.22154998779297]
-    },
-    "properties": {
-      "cities": "TUSCON",
-      "donors_mcsally": "1"
-    }
-  }, {
+  },  {
     "type": "Feature",
     "geometry": {
       "type": "Point",
